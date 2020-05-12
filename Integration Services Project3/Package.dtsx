@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{CFE4FABA-1A06-44F3-8587-B8E543E01C4A}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{C567DEED-553A-46B0-BA2E-0D87C8988C85}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -36,6 +36,13 @@
           Size="69,60"
           Id="0830547e-98eb-4d4c-b279-ea81b04f924c"
           TopLeft="341,120" />
+        <AnnotationLayout
+          Text="demo2"
+          ParentId="Package"
+          FontInfo="{assembly:Null}"
+          Size="66,60"
+          Id="12f1e20d-e569-40e2-99a5-a45fac9aad22"
+          TopLeft="345,206" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
